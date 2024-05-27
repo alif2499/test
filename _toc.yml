@@ -1,0 +1,14 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+parts:
+  - maxdepth: 4
+    titlesonly: False
+    chapters:
+    - file: 1_pages/1_Info-for-Participants.md
+    - file: 1_pages/2_Info-for-Speakers.md
+    - file: 1_pages/3_Speaker-Bios.md
+    - file: 1_pages/4_Jurisdictional-Survey.md
+    - file: 1_pages/5_Related-Resources.md
