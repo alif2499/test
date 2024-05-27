@@ -7,10 +7,9 @@ author                      : Government of Alberta
 copyright                   : "2024"  # Copyright year to be placed in the footer
 logo                        : MuleDeerHerdGordonCourt-661eabd220c747-21541121.jpg # A path to the book logo
 # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
-exclude_patterns            : [.files,.obsidian,_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints"]
+exclude_patterns            : [.files,.obsidian,_build,_ref Thumbs.db, .DS_Store, "**.ipynb_checkpoints"]
 # Auto-exclude files not in the toc
-only_build_toc_files        : false
-
+only_build_toc_files        : true
 
 #######################################################################################
 # Execution settings
@@ -72,7 +71,9 @@ parse:
 bibtex_bibfiles:
   - references.bib
 
-
+extensions:
+    - myst_parser
+    - sphinx_design
 #######################################################################################
 # Launch button settings
 
