@@ -17,7 +17,10 @@ editor_options:
 
 # Speaker Bios
 
+````{div} full-width
+
 ::::::{card}
+
 
 :::::{grid} 2
 
@@ -25,15 +28,15 @@ editor_options:
 
 **Sue Cotterill**, Executive Director, Fish and Wildlife Stewardship, Environment and Protected Areas (EPA)
 
-**Title:** Workshop welcome
+**Title:** Workshop welcomedfdwf
 
-**Bio:** Sue started with Fish and Wildlife in 2000 as a species at risk biologist before moving into the Assistant Deputy Minister’s office as the executive advisor. She returned to Fish and Wildlife in 2011 to lead the species at risk and wildlife disease programs and stepped into the Executive Director role in 2023.  
+**Bio:** Sue started with Fish and Wildlife in 2000 as a species at risk biologist before moving into the Assistant Deputy Minister’s office as the executive advisor. She returned to Fish and Wildlife in 2011 to lead the species at risk and wildlife disease programs and stepped into the Executive Director role in 2023.
 Outside of work, Sue enjoys gardening, getting lost in books, and ice fishing.
 ::::
 ::::{grid-item}
 
-<center> 
-    
+<center>
+
 ```{image} ./speakers/Sue-Cotterill.png
 :width: 300px
 ```
@@ -86,8 +89,8 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 ::::{grid-item}
 
-<center> 
-    
+<center>
+
 ```{image} ./speakers/Dan-Farr.png
 :width: 300px
 ```
@@ -112,8 +115,8 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 ::::{grid-item}
 
-<center> 
-    
+<center>
+
 ```{image} ./speakers/Mark-Boyce.jpg
 :width: 300px
 ```
@@ -138,8 +141,8 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 ::::{grid-item}
 
-<center> 
-    
+<center>
+
 ```{image} ./speakers/Anne-Hubbs.jpeg
 :width: 300px
 ```
@@ -164,8 +167,8 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 ::::{grid-item}
 
-<center> 
-    
+<center>
+
 ```{image} ./speakers/Kayla-Davis.jpg
 :width: 300px
 ```
@@ -190,8 +193,8 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 ::::{grid-item}
 
-<center> 
-    
+<center>
+
 ```{image} ./speakers/Mike-Russell.jpg
 :width: 300px
 ```
@@ -215,8 +218,8 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 ::::{grid-item}
 
-<center> 
-    
+<center>
+
 ```{image} ./speakers/Pauline-Priadka.jpg
 :width: 300px
 ```
@@ -241,8 +244,8 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 ::::{grid-item}
 
-<center> 
-    
+<center>
+
 ```{image} ./speakers/Daniel-Melody.jpg
 :width: 300px
 ```
@@ -289,7 +292,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 **Title:** Manitoba's modernization of big game aerial surveys
 
-**Bio:** Todd has a B.Sc. and M.SC. from the University of Manitoba. He has worked for the Government of Alberta, Saskatchewan, and Manitoba in several capacities. His current role at Manitoba Wildlife focuses on provincial level strategies for the management of big game, game birds and fur bearers.  
+**Bio:** Todd has a B.Sc. and M.SC. from the University of Manitoba. He has worked for the Government of Alberta, Saskatchewan, and Manitoba in several capacities. His current role at Manitoba Wildlife focuses on provincial level strategies for the management of big game, game birds and fur bearers.
 ::::
 ::::{grid-item}
 
@@ -315,12 +318,12 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 **Title:** Manitoba's modernization of big game aerial surveys
 
-**Bio:** Kirsten has a BSc Hons from the University of Manitoba and a PhD from Trent University, where her research focused on boreal caribou. At the Manitoba Wildlife Branch, Kirsten manages several wildlife research and monitoring programs with a focus on big game species. Her areas of research include aerial surveys, GPS-collaring, and genetic studies.  
+**Bio:** Kirsten has a BSc Hons from the University of Manitoba and a PhD from Trent University, where her research focused on boreal caribou. At the Manitoba Wildlife Branch, Kirsten manages several wildlife research and monitoring programs with a focus on big game species. Her areas of research include aerial surveys, GPS-collaring, and genetic studies.
 ::::
 ::::{grid-item}
 
-<center> 
-    
+<center>
+
 ```{image} ./speakers/Kirsten-Solmundson.jpg
 :width: 300px
 ```
@@ -346,8 +349,8 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 ::::{grid-item}
 
-<center> 
-    
+<center>
+
 ```{image} ./speakers/Nicholas-Coops.jpg
 :width: 300px
 ```
@@ -576,7 +579,7 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 **Title:** Beyond descriptions: Leveraging disparate data sources with Integrated Population Models
 
-**Bio:** Josh is an employee and founder of SpeedGoat Wildlife Solutions (<https://www.speedgoat.io/> ) where he collaborates with more than 16 wildlife agencies on a variety of projects from statistical analysis to monitoring program design. He has been working with Integrated Population Models for over 15 years and has implemented them for predator, big game, and non-game species across North America.  
+**Bio:** Josh is an employee and founder of SpeedGoat Wildlife Solutions (<https://www.speedgoat.io/> ) where he collaborates with more than 16 wildlife agencies on a variety of projects from statistical analysis to monitoring program design. He has been working with Integrated Population Models for over 15 years and has implemented them for predator, big game, and non-game species across North America.
 ::::
 ::::{grid-item}
 
@@ -606,8 +609,8 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 ::::{grid-item}
 
-<center> 
-    
+<center>
+
 ```{image} ./speakers/John-Boulanger.png
 :width: 300px
 ```
@@ -632,8 +635,8 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 ::::
 ::::{grid-item}
 
-<center> 
-    
+<center>
+
 ```{image} ./speakers/Brett-Furnas.jpg
 :width: 300px
 ```
@@ -642,3 +645,8 @@ Mark has been conducting field-based studies on mammals and their habitats for o
 
 ::::
 :::::
+
+```
+
+```
+````
